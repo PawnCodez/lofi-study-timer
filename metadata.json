@@ -1,0 +1,5 @@
+{
+  "name": "Lo-Fi Study Timer",
+  "description": "A productivity web app combining a Pomodoro timer, ambient Lo-Fi music, task tracking, and motivational quotes with a soothing aesthetic.",
+  "requestFramePermissions": []
+}
